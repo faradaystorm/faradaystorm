@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi there 👋 I'm Esma ✨
+🔭 I’m currently working on making projects as a beginner...
+🌱 I’m currently learning HTML, CSS, Javascript, Python, Data Science...
+📫 How to reach me: nesmasen@gmail.com
 <!--
 **faradaystorm/faradaystorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
